@@ -1,5 +1,7 @@
 # arduinoProjects
 
-Show Me The Water \n
-GCT501 Introduction to Culture Technology \n
-Making Cultural Digital Artifact \n
+Show Me The Water
+
+GCT501 Introduction to Culture Technology
+
+Making Cultural Digital Artifact
